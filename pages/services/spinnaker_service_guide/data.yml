@@ -1,0 +1,11 @@
+# Common values:
+
+packageName: spinnaker
+serviceName: spinnaker
+techName: Spinnaker
+techShortName: spinnaker
+
+# Values specific to certain templates:
+
+security:
+  plaintext: ", \"allow_plaintext\": <true|false default false>"
