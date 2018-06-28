@@ -3,7 +3,7 @@ layout: layout.pug
 navigationTitle:  Command Reference
 title: Command Reference
 menuWeight: 60
-excerpt: Commands used in the DC/OS Prometheus Service
+excerpt: Commands used in the DC/OS Spinnaker Service
 featureMaturity:
 enterprise: false
 ---
