@@ -10,7 +10,7 @@ enterprise: false
 
 # Components
 
-The following components work together to deploy and maintain the DC/OS pinnaker Service.
+The following components work together to deploy and maintain the DC/OS Spinnaker Service.
 
 - Mesos
 
