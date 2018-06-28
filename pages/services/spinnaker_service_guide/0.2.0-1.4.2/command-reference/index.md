@@ -19,7 +19,7 @@ Flags:
   
   -v, --verbose            Enable extra logging of requests/responses
   
-      --name="prometheus"  Name of the service instance to query
+      --name="spinnaker"  Name of the service instance to query
 
 Commands:
 
