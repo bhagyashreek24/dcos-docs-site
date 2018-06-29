@@ -15,14 +15,14 @@ Spinnaker’s flexible pipeline model allows for easy customization and enhancem
 
 As of today, Spinnaker can deploy to and manage clusters simultaneously across both Amazon Web Services (AWS), Kubernetes and Google Cloud Platform (GCP) with full feature compatibility for those cloud providers. Spinnaker can also deploy to Cloud Foundry, and support for full integration with Microsoft Azure is currently underway.
 
-##Benefits
+## Benefits
 
 1. Immutable Infrastructure
 2. Multi-Cloud Deployments
 3. Management Flexibility
 
 
-##DC/OS Spinnaker provides the following features:
+## DC/OS Spinnaker provides the following features:
 1. Canary Deployments: For monitoring test deployments on a small percentage of servers before scaling the changes to the rest. When would I use it? When testing a new batch of code or deployments.
 2. Spinnaker is a collection of sub-services that work together to form the Continuous Deployment platform. Each service follows the single-responsibility principle which allows for faster iteration on each individual component and a more
 
