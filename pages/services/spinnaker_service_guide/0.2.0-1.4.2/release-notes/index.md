@@ -31,7 +31,6 @@ Released first version of Service Guide with following topics:
     - Install and Customize
     - Security
     - Uninstall
-    - Quick Start
     - Connecting Clients
     - Managing
     - Security
