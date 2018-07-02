@@ -39,5 +39,4 @@ Each service task has some number of environment variables, which are used to co
 
 ### PreinstallNotes 
 
-The minimum memory requirement for Spinnaker installation is 18GB. Spinnaker installation also requires 64GB HardDisk and 5.2 CPU with 6 agent nodes 
-
+The minimum memory requirement for Spinnaker installation is 17.5GB and 5.2 CPU with 5 agent nodes 
