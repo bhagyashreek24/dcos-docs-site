@@ -43,8 +43,8 @@ In the vast majority of cases, this uninstall process goes off without a hitch. 
 
 This situation is indicated by looking at the Deploy Plan while the uninstall is proceeding. The Deploy Plan may be viewed using either of the following methods:
 
-1. CLI: `dcos spinnaker --name=spinnaker plan show deploy` (after running `dcos package install --cli spinnaker` if needed)
-2. HTTP: https://yourcluster.com/service/spinnaker/v1/plans/deploy
+    1. CLI: dcos spinnaker --name=spinnaker plan show deploy (after running dcos package install --cli spinnaker if needed)
+    2. HTTP: https://yourcluster.com/service/spinnaker/v1/plans/deploy
 
 **Deploy Plan in progress**
 
