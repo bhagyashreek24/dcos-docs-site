@@ -26,3 +26,22 @@ As of today, Spinnaker can deploy to and manage clusters simultaneously across b
 1. Canary Deployments: For monitoring test deployments on a small percentage of servers before scaling the changes to the rest. When would I use it? When testing a new batch of code or deployments.
 2. Spinnaker is a collection of sub-services that work together to form the Continuous Deployment platform. Each service follows the single-responsibility principle which allows for faster iteration on each individual component and a more
 
+
+## Components/Services
+Spinnaker framework is a collection of sub-services that work together to form the Continuous
+Deployment platform. Each service follows the single-responsibility principle which allows for
+faster iteration on each individual component and a more pluggable architecture for custom
+components.
+
+For Spinnaker [Architecture refer]:( https://www.spinnaker.io/reference/architecture/)
+The Spinnaker components are:-
+● Deck
+● Gate
+● Orca
+● Clouddriver
+● Front50
+● Rosco
+● Igor
+● Echo
+● Fiat
+● Kayenta
