@@ -47,3 +47,6 @@ Azure Storage
 Google Cloud Storage
 Minio
 AWS S3
+
+### Backup
+Spinnaker does not store any data, therefore there is no need for backup. For storing Application settings and configured pipelines, Front50 microservice is used.
