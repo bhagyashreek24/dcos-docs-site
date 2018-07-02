@@ -30,9 +30,6 @@ As of today, Spinnaker can deploy to and manage clusters simultaneously across b
 ## DC/OS Spinnaker provides the following features:
 1. Canary Deployments: For monitoring test deployments on a small percentage of servers before scaling the changes to the rest. When would I use it? When testing a new batch of code or deployments.
 2. To limit the risk of deployments it has ability to restrict executions within pipelines. In Spinnaker, there is a flag to enable to only run on pipeline at a time in its configuration. By doing this, any new pipelines scheduled will be put in a NOT_STARTED state whenever there is already a running pipeline, once this other pipelines completes, the waiting pipeline will start.
-3. It provides Manual Judgment stage that ensures steps that require a human ‘OK’ by an engineer or QA specialist can be easily
-done. When a pipeline reaches a manual judgment stage, it will halt and wait until the person responsible and clicks ‘Continue’. It uses the existing notification mechanisms built in to Spinnaker, so it can send an email, SMS or slack notifications to users that need to approve the pipeline.
-
 
 ## Components/Services
 Spinnaker framework is a collection of sub-services that work together to form the Continuous Deployment platform. Each service follows the single-responsibility principle which allows for faster iteration on each individual component and a more pluggable architecture for custom components.
