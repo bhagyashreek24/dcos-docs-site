@@ -40,3 +40,10 @@ Each service task has some number of environment variables, which are used to co
 ### PreinstallNotes 
 
 The minimum memory requirement for Spinnaker installation is 17.5GB and 5.2 CPU with 5 agent nodes 
+
+### Storage 
+For persistent storage, Spinnaker requires an external storage provider for persisting the applications settings and configured pipelines from the below storage provider available:
+Azure Storage
+Google Cloud Storage
+Minio
+AWS S3
