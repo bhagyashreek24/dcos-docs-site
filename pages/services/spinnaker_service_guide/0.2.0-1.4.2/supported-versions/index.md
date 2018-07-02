@@ -13,7 +13,7 @@ enterprise: false
 ## Package Versioning Scheme
 
     Spinnaker: 1.4.2
-    DC/OS: 1.10 and 1.11
+    DC/OS: 1.9 ,1.10 and 1.11
 
 Packages are versioned with an a.b.c-x.y.z format, where a.b.c is the version of the DC/OS integration and x.y.z indicates the version of Spinnaker.
 For example, 0.2.0-1.4.2 indicates version 0.2.0 of the DC/OS integration and version 1.4.2 of Spinnaker.
