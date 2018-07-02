@@ -33,7 +33,7 @@ Deployment platform. Each service follows the single-responsibility principle wh
 faster iteration on each individual component and a more pluggable architecture for custom
 components.
 
-For Spinnaker [Architecture refer]:( https://www.spinnaker.io/reference/architecture/)
+For Spinnaker [Architecture](https://www.spinnaker.io/reference/architecture/)
 The Spinnaker components are:-
 ● Deck
 ● Gate
