@@ -34,14 +34,25 @@ faster iteration on each individual component and a more pluggable architecture 
 components.
 
 For Spinnaker [Architecture](https://www.spinnaker.io/reference/architecture/)
+
 The Spinnaker components are:-
+
 ● Deck
+
 ● Gate
+
 ● Orca
+
 ● Clouddriver
+
 ● Front50
+
 ● Rosco
+
 ● Igor
+
 ● Echo
+
 ● Fiat
+
 ● Kayenta
