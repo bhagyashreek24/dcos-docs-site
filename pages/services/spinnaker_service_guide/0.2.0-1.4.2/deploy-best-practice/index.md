@@ -1,4 +1,9 @@
 
+
+## Ports 
+
+[<img src="../service/Ports.png" alt="inside task" width="1000"/>](../service/Ports.png)
+
 ## Block Device / Storage
 
 ### Disk Recommendations
