@@ -49,15 +49,10 @@ Create a secret (spinnaker/<secret-name>) with your service account (<service-ac
    ```shell
    dcos security secrets create-sa-secret spinnaker-private-key.pem <service name> <service name secret>
    ``` 
-   
-### Strict     
-
-   ```shell
-   dcos security secrets create-sa-secret --strict spinnaker-private-key.pem <service name> <service name secret>
-   ```    
+    ```    
 **Tip:** You can list the secrets with this command:   
    ```shell
-   dcos security secrets list /
+   dcos security secrets list 
    ```    
 
 ### Assign Permissions
